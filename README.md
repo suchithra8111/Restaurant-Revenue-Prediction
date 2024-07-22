@@ -1,7 +1,7 @@
 # Restaurant-Revenue-Prediction
 Predictive Modeling for Restaurant Revenue Prediction Using Machine Learning
 
-("C:\\Users\\spsuc\\Downloads\\restaurant_data.csv")
+"C:\\Users\\spsuc\\Downloads\\restaurant_data.csv"
 
 # Introduction
 
