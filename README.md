@@ -1,7 +1,8 @@
 # Restaurant-Revenue-Prediction
 Predictive Modeling for Restaurant Revenue Prediction Using Machine Learning
 
-[Dataset]("C:\\Users\\spsuc\\Downloads\\restaurant_data.csv")
+[Dataset](C:\Users\spsuc\Downloads\restaurant_data.csv)
+
 
 # Introduction
 
